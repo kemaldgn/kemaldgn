@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kemaldgn
-- 👀 I’m interested in Game development, ,Machine Learning, Blockchain, Pixel Art.
-- 🌱 I’m currently working on Unity, Python, Machine Learning.
+- 👀 I’m interested in Game development, Game Design, Machine Learning, Blockchain, Pixel Art.
+- 🌱 I’m currently working on Unity.
 - 📫 How to reach me:
 - Linkedin: www.linkedin.com/in/kemal-dogan0
 - Gmail: kemaldogan042@gmail.com
