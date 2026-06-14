@@ -16,12 +16,12 @@ I work across game design, gameplay programming, UI and production-minded develo
 
 ## Steam Games
 
-- [[Last Outpost Steam Page](https://store.steampowered.com/app/2927780/Last_Outpost/)]()
-- [[Bones and Coins Steam Page](https://store.steampowered.com/app/4134650/Bones_and_Coins)]()
+- [[Last Outpost Steam Page](https://store.steampowered.com/app/2927780/Last_Outpost/)]
+- [[Bones and Coins Steam Page](https://store.steampowered.com/app/4134650/Bones_and_Coins)]
 
 ## Itch.io Page
 
-- [[Troyd Games](https://troyd-games.itch.io/)]()
+- [[Troyd Games](https://troyd-games.itch.io/)]
 
 ## Focus
 
