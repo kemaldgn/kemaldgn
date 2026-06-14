@@ -1,13 +1,26 @@
-- 👋 Hi, I’m @kemaldgn
-- 👀 I’m interested in Game development, Game Design, Machine Learning, Blockchain, Pixel Art.
-- 🌱 I’m currently working on Unity.
-- 📫 How to reach me:
-- Linkedin: www.linkedin.com/in/kemal-dogan0
-- Gmail: kemaldogan042@gmail.com
-- You can try my game prototypes from Itch.io: https://troyd-games.itch.io/
-- Check out my released Steam Games: https://store.steampowered.com/developer/TroydGames
+# Hi, I'm Kemal
 
-<!---
-kemaldgn/kemaldgn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a game designer and game developer building games in Unity.
+
+I work across game design, gameplay programming, UI and production-minded development. I like building games that feel clear, scalable and satisfying to play.
+
+## About Me
+
+- Unity / C#
+- Game design
+- Gameplay programming
+- Blender
+- Aseprite
+- Audacity
+- Illustrator
+
+## Games
+
+- Last Outpost: [[Link Here](https://store.steampowered.com/app/2927780/Last_Outpost/)]()
+- Bones and Coins: [[Link Here](https://store.steampowered.com/app/4134650/Bones_and_Coins)]()
+
+## Focus
+
+I care about strong gameplay loops, readable systems. I approach projects from both the design and implementation side, so I’m usually thinking about player experience, scope and how a feature should actually be built at the same time.
+
+I enjoy working on progression, game feel, feature structure, and the small details that make a game more polished and easier to understand.
